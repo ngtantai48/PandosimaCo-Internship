@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Data\VScode-workspace\python-projects\django_ProjectMySQL\django-restframework\tutorial\env"
+VIRTUAL_ENV="D:\Data\VScode-workspace\python-projects\django_ProjectMySQL\PandosimaCo-Internship\django-restframework\tutorial\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
